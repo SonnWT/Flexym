@@ -19,5 +19,7 @@ Displays live video feed with annotations, posture feedback, and repetition coun
 
 ## Libraries Used
 Python: Core application logic.
+
 OpenCV & MediaPipe: Real-time video processing and movement analysis.
+
 NumPy: Angle calculations for posture correction.
