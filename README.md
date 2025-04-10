@@ -38,4 +38,4 @@ NumPy: Angle calculations for posture correction.
    python Flexym.py
 4. **Stop the application**
    ```sh
-   Press **'q'** on your keyboard to stop the program at any time
+   Press 'q' on your keyboard to stop the program at any time
