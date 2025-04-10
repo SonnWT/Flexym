@@ -23,3 +23,16 @@ Python: Core application logic.
 OpenCV & MediaPipe: Real-time video processing and movement analysis.
 
 NumPy: Angle calculations for posture correction.
+
+## Installation Steps
+
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/SonnWT/Flexym.git
+   cd Flexym
+2. **Install dependencies**
+   ```sh
+   pip install -r requirements.txt
+3. **Run the application**
+   ```sh
+   python Flexym.py
